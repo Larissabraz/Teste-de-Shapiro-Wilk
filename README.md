@@ -1,0 +1,2 @@
+A análise dos dados foi conduzida utilizando o software R
+Para as variáveis categóricas, a associação entre as categorias foi avaliada por meio do teste qui-quadrado. Quando as condições para a aplicação do teste qui-quadrado não foram atendidas (frequências esperadas inferiores a 5), o teste exato de Fisher foi utilizado como alternativa. O nível de significância adotado para todas as análises foi de (p < 0,05).
